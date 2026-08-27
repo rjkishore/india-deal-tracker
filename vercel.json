@@ -1,7 +1,6 @@
 {
-  "buildCommand": "npm install && npm run build",
-  "outputDirectory": "india-deal-tracker/dist",
-  "installCommand": "cd india-deal-tracker && npm install",
-  "framework": "vite",
-  "rootDirectory": "india-deal-tracker"
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite"
 }
